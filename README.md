@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
 <h3 align="center">Machine Learning Researcher / Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinangncgl&label=Profile%20views&color=0e75b6&style=flat" alt="sinangncgl" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinangncgl&label=Profile%20views&color=0e75b6&style=flat" alt="sinangncgl" /> </p> -->
 
 - 🔭 I’m currently working on **Diffusion Models / Few-shot Classification**
 
