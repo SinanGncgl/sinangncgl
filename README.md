@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Generative models**
+<!--- - 💬 Ask me about **Generative models** -->
 
 - 📫 How to reach me **sinan.gencogluu@gmail.com**
 
