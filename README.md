@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sinan.gencogluu@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/199OoNHsQmJ3J6yNLksTKsaoK1zAU8c7d/view?usp=share_link)
+<!--- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/199OoNHsQmJ3J6yNLksTKsaoK1zAU8c7d/view?usp=share_link) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
