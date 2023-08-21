@@ -3,7 +3,7 @@
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinangncgl&label=Profile%20views&color=0e75b6&style=flat" alt="sinangncgl" /> </p> -->
 
-- 🔭 I’m currently working on **Diffusion Models / Few-shot Classification**
+- 🔭 My research interests are **Diffusion Models / Few-shot Classification**
 
 - 🌱 I’m currently learning **Rust**
 
